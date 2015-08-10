@@ -1,5 +1,6 @@
 import gulp from "gulp";
 import mocha from "gulp-mocha";
+import "superstack";
 import istanbul from "gulp-istanbul";
 import paths from "../paths.json";
 
