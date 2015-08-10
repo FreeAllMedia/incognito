@@ -1,3 +1,4 @@
+import "./tasks/suppress-errors.js";
 import "./tasks/build-spec.js";
 import "./tasks/build-spec-assets.js";
 import "./tasks/build-lib.js";
@@ -6,3 +7,4 @@ import "./tasks/build.js";
 import "./tasks/test-local.js";
 import "./tasks/test-browsers.js";
 import "./tasks/test.js";
+import "./tasks/test-watch.js";
