@@ -1,6 +1,6 @@
 {
   "name": "incognito",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Private properties for your classes.",
   "main": "index.js",
   "scripts": {
