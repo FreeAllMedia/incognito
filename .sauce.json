@@ -31,7 +31,13 @@
 	        "browserName": "firefox",
 	        "version": "38"
 	    },
-	    
+
+			"sl_win_7_ie_8": {
+					"base": "SauceLabs",
+					"browserName": "internet explorer",
+					"version": "8",
+					"platform": "Windows 7"
+			},
 	    "sl_win_7_ie_9": {
 	        "base": "SauceLabs",
 	        "browserName": "internet explorer",
