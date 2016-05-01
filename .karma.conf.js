@@ -25,8 +25,8 @@ let configOptions = {
     // preprocess matching files before serving them to the browser
     // available preprocessors: https://npmjs.org/browse/keyword/karma-preprocessor
     preprocessors: {
-        "node_modules/babel/polyfill.js": ["browserify"],
-        "es5/**/*.js": ["browserify"]
+      "node_modules/babel/polyfill.js": ["browserify"],
+      "es5/**/*.js": ["browserify"]
     },
 
     browserify: {

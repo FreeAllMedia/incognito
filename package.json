@@ -20,9 +20,7 @@
     "url": "https://github.com/FreeAllMedia/incognito/issues"
   },
   "homepage": "https://github.com/FreeAllMedia/incognito",
-  "dependencies": {
-    "babel-polyfill": "^6.3.14"
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel": "^5.5.6",
     "babel-eslint": "^3.1.20",
